@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.01c7d2c7.chunk.css",
-    "main.js": "/static/js/main.1d9cc12a.chunk.js",
-    "main.js.map": "/static/js/main.1d9cc12a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e7835075.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e7835075.js.map",
-    "static/js/2.22487083.chunk.js": "/static/js/2.22487083.chunk.js",
-    "static/js/2.22487083.chunk.js.map": "/static/js/2.22487083.chunk.js.map",
-    "static/js/3.a9b1dff6.chunk.js": "/static/js/3.a9b1dff6.chunk.js",
-    "static/js/3.a9b1dff6.chunk.js.map": "/static/js/3.a9b1dff6.chunk.js.map",
+    "main.css": "/static/css/main.e35533fd.chunk.css",
+    "main.js": "/static/js/main.d901cd07.chunk.js",
+    "main.js.map": "/static/js/main.d901cd07.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.21ab5595.js",
+    "runtime-main.js.map": "/static/js/runtime-main.21ab5595.js.map",
+    "static/js/2.4ac23373.chunk.js": "/static/js/2.4ac23373.chunk.js",
+    "static/js/2.4ac23373.chunk.js.map": "/static/js/2.4ac23373.chunk.js.map",
+    "static/js/3.5e51fe9c.chunk.js": "/static/js/3.5e51fe9c.chunk.js",
+    "static/js/3.5e51fe9c.chunk.js.map": "/static/js/3.5e51fe9c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.01c7d2c7.chunk.css.map": "/static/css/main.01c7d2c7.chunk.css.map",
-    "static/js/2.22487083.chunk.js.LICENSE.txt": "/static/js/2.22487083.chunk.js.LICENSE.txt",
+    "static/css/main.e35533fd.chunk.css.map": "/static/css/main.e35533fd.chunk.css.map",
+    "static/js/2.4ac23373.chunk.js.LICENSE.txt": "/static/js/2.4ac23373.chunk.js.LICENSE.txt",
+    "static/media/4229.c5646b86.mp4": "/static/media/4229.c5646b86.mp4",
     "static/media/CubeRegularBlack1.c1447e38.mp4": "/static/media/CubeRegularBlack1.c1447e38.mp4",
     "static/media/TorusRegularWhite1.1bcc3786.mp4": "/static/media/TorusRegularWhite1.1bcc3786.mp4",
     "static/media/cube.3d752824.mp4": "/static/media/cube.3d752824.mp4",
@@ -39,9 +40,9 @@
     "static/media/toys8.45cc5f36.jpg": "/static/media/toys8.45cc5f36.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7835075.js",
-    "static/js/2.22487083.chunk.js",
-    "static/css/main.01c7d2c7.chunk.css",
-    "static/js/main.1d9cc12a.chunk.js"
+    "static/js/runtime-main.21ab5595.js",
+    "static/js/2.4ac23373.chunk.js",
+    "static/css/main.e35533fd.chunk.css",
+    "static/js/main.d901cd07.chunk.js"
   ]
 }
