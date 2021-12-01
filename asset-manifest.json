@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e35533fd.chunk.css",
-    "main.js": "/static/js/main.5ad631aa.chunk.js",
-    "main.js.map": "/static/js/main.5ad631aa.chunk.js.map",
+    "main.js": "/static/js/main.494a1900.chunk.js",
+    "main.js.map": "/static/js/main.494a1900.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.21ab5595.js",
     "runtime-main.js.map": "/static/js/runtime-main.21ab5595.js.map",
-    "static/js/2.3d8e9d54.chunk.js": "/static/js/2.3d8e9d54.chunk.js",
-    "static/js/2.3d8e9d54.chunk.js.map": "/static/js/2.3d8e9d54.chunk.js.map",
+    "static/js/2.93a72bff.chunk.js": "/static/js/2.93a72bff.chunk.js",
+    "static/js/2.93a72bff.chunk.js.map": "/static/js/2.93a72bff.chunk.js.map",
     "static/js/3.5e51fe9c.chunk.js": "/static/js/3.5e51fe9c.chunk.js",
     "static/js/3.5e51fe9c.chunk.js.map": "/static/js/3.5e51fe9c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.e35533fd.chunk.css.map": "/static/css/main.e35533fd.chunk.css.map",
-    "static/js/2.3d8e9d54.chunk.js.LICENSE.txt": "/static/js/2.3d8e9d54.chunk.js.LICENSE.txt",
+    "static/js/2.93a72bff.chunk.js.LICENSE.txt": "/static/js/2.93a72bff.chunk.js.LICENSE.txt",
     "static/media/4229.c5646b86.mp4": "/static/media/4229.c5646b86.mp4",
     "static/media/CubeRegularBlack1.c1447e38.mp4": "/static/media/CubeRegularBlack1.c1447e38.mp4",
     "static/media/TorusRegularWhite1.1bcc3786.mp4": "/static/media/TorusRegularWhite1.1bcc3786.mp4",
@@ -32,6 +32,7 @@
     "static/media/torus.775df4e9.mp4": "/static/media/torus.775df4e9.mp4",
     "static/media/torusSingleWhite1.bfadeb50.jpeg": "/static/media/torusSingleWhite1.bfadeb50.jpeg",
     "static/media/toys1.4424a3d6.jpg": "/static/media/toys1.4424a3d6.jpg",
+    "static/media/toys11.0f2416ee.png": "/static/media/toys11.0f2416ee.png",
     "static/media/toys2.f8ff71fa.jpg": "/static/media/toys2.f8ff71fa.jpg",
     "static/media/toys3.b5222d63.jpg": "/static/media/toys3.b5222d63.jpg",
     "static/media/toys4.db7b73e2.jpg": "/static/media/toys4.db7b73e2.jpg",
@@ -42,8 +43,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.21ab5595.js",
-    "static/js/2.3d8e9d54.chunk.js",
+    "static/js/2.93a72bff.chunk.js",
     "static/css/main.e35533fd.chunk.css",
-    "static/js/main.5ad631aa.chunk.js"
+    "static/js/main.494a1900.chunk.js"
   ]
 }
