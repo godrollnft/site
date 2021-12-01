@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e35533fd.chunk.css",
-    "main.js": "/static/js/main.494a1900.chunk.js",
-    "main.js.map": "/static/js/main.494a1900.chunk.js.map",
+    "main.js": "/static/js/main.a95e81d9.chunk.js",
+    "main.js.map": "/static/js/main.a95e81d9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.21ab5595.js",
     "runtime-main.js.map": "/static/js/runtime-main.21ab5595.js.map",
     "static/js/2.93a72bff.chunk.js": "/static/js/2.93a72bff.chunk.js",
@@ -13,6 +13,7 @@
     "static/css/main.e35533fd.chunk.css.map": "/static/css/main.e35533fd.chunk.css.map",
     "static/js/2.93a72bff.chunk.js.LICENSE.txt": "/static/js/2.93a72bff.chunk.js.LICENSE.txt",
     "static/media/4229.c5646b86.mp4": "/static/media/4229.c5646b86.mp4",
+    "static/media/597.f73f48bc.mp4": "/static/media/597.f73f48bc.mp4",
     "static/media/CubeRegularBlack1.c1447e38.mp4": "/static/media/CubeRegularBlack1.c1447e38.mp4",
     "static/media/TorusRegularWhite1.1bcc3786.mp4": "/static/media/TorusRegularWhite1.1bcc3786.mp4",
     "static/media/coins960b.5ebfd796.png": "/static/media/coins960b.5ebfd796.png",
@@ -45,6 +46,6 @@
     "static/js/runtime-main.21ab5595.js",
     "static/js/2.93a72bff.chunk.js",
     "static/css/main.e35533fd.chunk.css",
-    "static/js/main.494a1900.chunk.js"
+    "static/js/main.a95e81d9.chunk.js"
   ]
 }
